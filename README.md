@@ -1,7 +1,7 @@
 
 # Project Title
 
-Test-Case-Format-with-Example
+Structure of Test-Case-Format-with-Example
 
 
 
